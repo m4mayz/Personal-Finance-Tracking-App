@@ -102,15 +102,7 @@ From this problem, I wanted to create an application that allows multiple profil
 
 ## Demo Video
 
-Soon.
-
-**Demo Video Content:**
-
--   Application startup and profile creation
--   Adding income and expense transactions
--   Viewing balance updates and transaction history
--   Multiple profile management demonstration
--   Data persistence verification
+[![Watch the video](Demo-Cover.jpg)](Demo.mp4)
 
 ## Author
 
